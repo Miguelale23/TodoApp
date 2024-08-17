@@ -1,0 +1,32 @@
+# Directorios de node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.expo/
+
+# Archivo de configuración de Metro
+metro.config.js
+metro.config.json
+
+# Archivo de configuración de configuración de Babel
+babel.config.js
+babel.config.json
+
+# Archivos de caché
+.expo-shared/
+.vscode/
+.DS_Store
+.env
+
+# Archivos específicos de iOS/Android generados por Expo
+ios/
+android/
+
+# Archivos que podrían contener datos sensibles
+*.env.*
+*.key
+*.keystore
+
+# Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
